@@ -1,6 +1,6 @@
 import tkinter as tk
 from tkinter import StringVar
-
+suki;
 root=tk.Tk()
 root.title("Kelas")
 root.geometry("180x200")
@@ -29,4 +29,5 @@ tk.Button(root, text="SUBMIT", font=("Arial", 10), command=submit_form).grid(row
 
 
 root.mainloop()
+
 
